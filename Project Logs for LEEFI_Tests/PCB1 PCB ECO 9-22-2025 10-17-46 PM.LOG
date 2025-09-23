@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=NetB1_1 Pin=B1-2
+Added Pin To Net: NetName=NetB1_1 Pin=B2-2
+Added Pin To Net: NetName=NetB1_1 Pin=B3-2
+Added Pin To Net: NetName=NetB1_1 Pin=B4-2
+Added Pin To Net: NetName=NetB1_1 Pin=B5-2
+Added Pin To Net: NetName=NetB1_1 Pin=J2-1
+Added Pin To Net: NetName=NetB1_1 Pin=J3-1
+Added Pin To Net: NetName=NetB1_1 Pin=J4-1
+Added Pin To Net: NetName=NetB1_1 Pin=J5-1
+Added Pin To Net: NetName=NetB1_1 Pin=J6-1
+Added Pin To Net: NetName=NetB1_1 Pin=J8-1
+Added Pin To Net: NetName=NetB1_1 Pin=J9-1
+Added Pin To Net: NetName=NetB1_1 Pin=J10-1
+Added Pin To Net: NetName=NetB1_1 Pin=J11-1
+Added Pin To Net: NetName=NetB1_1 Pin=J12-1
+Change Net Name : Old Net Name=NetB1_1 New Net Name=B1
