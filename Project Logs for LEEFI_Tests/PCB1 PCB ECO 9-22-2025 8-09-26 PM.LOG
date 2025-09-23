@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator= NewDesignator=S1
+Added Component: Designator=RogC1(RogowskiCoil_Unrouted)
+Added Pin To Net: NetName=NetR8_1 Pin=RogC1-1
+Added Pin To Net: NetName=NetR8_2 Pin=RogC1-2
+Added Member To Class: ClassName=Sheet1 Member=Component J1 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J2 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J3 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J4 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J5 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component J6 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component RogC1 Rogowski_Coil
+Added Member To Class: ClassName=Sheet1 Member=Component S1 2-1977223-4
+Added Member To Class: ClassName=Sheet1 Member=Component TP5 Test_Point
+Added Member To Class: ClassName=Sheet1 Member=Component TP6 Test_Point
+Added Member To Class: ClassName=Sheet1 Member=Component TP9 Test_Point
