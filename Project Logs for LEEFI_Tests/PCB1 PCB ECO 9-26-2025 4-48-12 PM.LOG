@@ -1,0 +1,6 @@
+Added Component: Designator=R9(RESC2012X60N)
+Added Pin To Net: NetName=NetB2_1 Pin=B1-1
+Added Pin To Net: NetName=NetC5_1 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Change Net Name : Old Net Name=NetB2_1 New Net Name=NetB1_1
+Added Member To Class: ClassName=Sheet1 Member=Component R9 RC0805FR-075M9L
