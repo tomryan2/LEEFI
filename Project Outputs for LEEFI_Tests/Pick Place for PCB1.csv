@@ -1,0 +1,71 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\LEEFI_Tests\Project Outputs for LEEFI_Tests\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/09/25
+Time:       17:06
+Revision:   1f0b0a9c5be6be0fb7c312378e3604d30147b46c
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R9","RC0805FR-075M9L","TopLayer","RESC2012X60N","36.9570","6.6040","0","1% 1/8W"
+"TP9","Test_Point","TopLayer","TestPoint","6.6040","53.5940","90",""
+"TP6","Test_Point","TopLayer","TestPoint","3.6830","10.1600","90",""
+"TP5","Test_Point","TopLayer","TestPoint","54.2290","46.3550","90",""
+"J12","Jumper","TopLayer","Jumper","49.0970","31.9645","270",""
+"J11","Jumper","TopLayer","Jumper","54.7620","31.6535","270",""
+"J10","Jumper","TopLayer","Jumper","60.6540","31.8375","270",""
+"J9","Jumper","TopLayer","Jumper","66.7000","31.7805","270",""
+"J8","Jumper","TopLayer","Jumper","72.0840","31.8375","270",""
+"J6","Jumper","TopLayer","Jumper","26.9990","43.2675","270",""
+"J5","Jumper","TopLayer","Jumper","23.8240","43.2675","270",""
+"J4","Jumper","TopLayer","Jumper","20.6490","43.2675","270",""
+"J3","Jumper","TopLayer","Jumper","24.8400","50.7605","270",""
+"J2","Jumper","TopLayer","Jumper","21.9190","51.0145","270",""
+"J1","Jumper","TopLayer","Jumper","19.3560","51.0935","90",""
+"Z1","MMSZ4705-HE3_A-08","TopLayer","SOD3716X135N","41.5290","8.0010","90","18V Zener Diode"
+"TP8","Test_Point","TopLayer","TestPoint","3.6830","13.4620","90",""
+"TP7","Test_Point","TopLayer","TestPoint","19.4310","4.4450","90",""
+"S1","2-1977223-4","TopLayer","219772234","13.4980","11.1540","90","Switch (4-Pin Push)"
+"Rog1","Rogowski","TopLayer","Rogowski","137.5410","41.7230","0",""
+"R8","CRMA2010AF680RFKEF","TopLayer","RESC3216X65N","134.3130","59.3090","360","500mW 1%"
+"R7","RNCF0805BTE500K","TopLayer","RESC2012X60N","22.2090","24.2570","0",""
+"R6","RNCE1206BTE49R9","TopLayer","RESC3216X60N","7.6200","49.9110","180",""
+"R5","RNCE1206BTE49R9","TopLayer","RESC3216X60N","7.6200","45.0850","0",""
+"R4","ERJ-S06J3R0V","TopLayer","RESC2012X60N","19.9390","9.9060","270","3 Ohm 125mW 0805 (2012)"
+"R3","HV733ATTE4702F","TopLayer","RESC6331X70N","15.2400","36.3220","360","47k 3kV 1W"
+"R2","RNCF0805BTE500K","TopLayer","RESC2012X60N","14.8430","51.6890","180",""
+"R1","RNCF0805BTE500K","TopLayer","RESC2012X60N","12.4460","44.7040","0",""
+"Q1","IXGT32N170-TRL","TopLayer","IXGT32N170TRL","59.5630","13.0060","360","Transistor IGBT"
+"P1","Power Input","TopLayer","Power_Input","4.8135","28.5350","0",""
+"IC4","UA78M05CDCYG3","TopLayer","SOT230P700X180-4N","14.1990","22.4790","0","Integrated Circuit"
+"IC3","74LVC1G17QW5-7","TopLayer","SOT95P285X140-5N","30.3530","7.4930","0","Integrated Circuit"
+"IC2","AS2333S-13","TopLayer","SOIC127P600X150-8N","13.9700","56.3880","0","Integrated Circuit"
+"IC1","ZXGD3005E6TA","TopLayer","SOT95P285X140-6N","24.5110","7.7470","0","Integrated Circuit"
+"D6","AES2JF-HF","TopLayer","SODFL5226X110N","22.7330","34.0360","270","Diode"
+"D5","AES2JF-HF","TopLayer","SODFL5226X110N","27.9400","34.0360","90","Diode"
+"D4","AES2JF-HF","TopLayer","SODFL5226X110N","33.0200","34.0360","270","Diode"
+"D3","AES2JF-HF","TopLayer","SODFL5226X110N","32.5120","26.1620","270","Diode"
+"D2","AES2JF-HF","TopLayer","SODFL5226X110N","31.8770","18.1610","270","Diode"
+"D1","AES2JF-HF","TopLayer","SODFL5226X110N","36.8300","18.1610","270","Diode"
+"C12","KAM21BR71H104JT","TopLayer","CAPC2012X94N","26.5860","24.5110","0","Capacitor"
+"C11","KAM21BR71H104JT","TopLayer","CAPC2012X94N","26.7970","20.9550","0","Capacitor"
+"C10","KAM21BR71H104JT","TopLayer","CAPC2012X94N","22.3520","17.2720","0","Capacitor"
+"C9","KAM21BR71H104JT","TopLayer","CAPC2012X94N","23.1570","12.0650","0","Capacitor"
+"C8","KAM21BR71H104JT","TopLayer","CAPC2012X94N","31.7930","12.0650","0","Capacitor"
+"C7","KAM21BR71H104JT","TopLayer","CAPC2012X94N","27.4750","12.0650","0","Capacitor"
+"C6","C0805C105J4RAC7210","TopLayer","RESC2012X60N","15.8750","42.2910","0","0805 Ceramic"
+"C5","KAM21BR71H104JT","TopLayer","CAPC2012X94N","22.3520","21.2090","0","Capacitor"
+"C4","C0805C105J4RAC7210","TopLayer","RESC2012X60N","21.3360","28.0670","0","0805 Ceramic"
+"C3","80-C2220X164KFRLCAUTO","TopLayer","CAPC5750X280N","39.3510","28.2910","270","0.16uF
+1500V"
+"C2","C0805C105J4RAC7210","TopLayer","RESC2012X60N","12.7000","47.7520","0","0805 Ceramic"
+"C1","C0805C105J4RAC7210","TopLayer","RESC2012X60N","7.4930","40.5130","0","0805 Ceramic"
+"B5","200um_400um_35um","TopLayer","Bridge_2","49.1865","38.0050","270",""
+"B4","200um_400um_35um","TopLayer","Bridge_2","54.9015","38.0050","270",""
+"B3","200um_400um_35um","TopLayer","Bridge_2","60.6165","37.8780","270",""
+"B2","200um_400um_35um","TopLayer","Bridge_2","66.5855","37.9050","270",""
+"B1","200um_400um_35um","TopLayer","Bridge_2","72.1735","38.0320","270",""
