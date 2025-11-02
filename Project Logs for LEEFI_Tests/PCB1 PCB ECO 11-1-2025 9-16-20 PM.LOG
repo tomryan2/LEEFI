@@ -1,0 +1,27 @@
+Added Component: Designator=C13(CAPC2012X94N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "KAM21BR71H104JT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/kam21br71h104jt/avx?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://spicat.kyocera-avx.com/product/mlcc/chartview/KAM21BR71H104JT/DataSheet/X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.94mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KAM21BR71H104JT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-KAM21BR71H104JT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KAM21BR71H104JT?qs=Jm2GQyTW%2Fbic6Zk4McEt6w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R11(TH_RES)
+Added Component: Designator=R12(TH_RES)
+Added Component: Designator=TP10(TestPoint)
+Added Component: Designator=TP12(TestPoint)
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=NetB1_1 Pin=R11-1
+Added Pin To Net: NetName=NetJ8_2 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=TP10-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R12-1
+Added Pin To Net: NetName=NetR11_2 Pin=TP12-1
+Added Net: Name=NetR11_2
+Added Member To Class: ClassName=Sheet1 Member=Component C13 KAM21BR71H104JT
+Added Member To Class: ClassName=Sheet1 Member=Component R11 VRW68-1M0JI
+Added Member To Class: ClassName=Sheet1 Member=Component R12 VRW68-100KJI
+Added Member To Class: ClassName=Sheet1 Member=Component TP10 Test_Point
+Added Member To Class: ClassName=Sheet1 Member=Component TP12 Test_Point
