@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=17V_RTN Pin=R10-1
+Added Component: Designator=R10(RESC2012X60N)
+Added Component: Designator=R13(RESC2012X60N)
+Added Pin To Net: NetName=17V_RTN Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=17V_RTN Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Change Net Name : Old Net Name=NetIC3_4 New Net Name=NetIC1_2
+Change Net Name : Old Net Name=NetIC?_6 New Net Name=NetIC1_6
+Change Net Name : Old Net Name=NetIC?_7 New Net Name=NetIC1_7
+Added Member To Class: ClassName=Sheet1 Member=Component D4 AES2JF-HF
+Added Member To Class: ClassName=Sheet1 Member=Component D5 AES2JF-HF
+Added Member To Class: ClassName=Sheet1 Member=Component D6 AES2JF-HF
+Added Member To Class: ClassName=Sheet1 Member=Component R10 CRF0805-FZ-R005ELF
+Added Member To Class: ClassName=Sheet1 Member=Component R13 CRF0805-FZ-R005ELF

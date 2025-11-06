@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=5V Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=17V Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=17V Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=NetB1_1 Pin=D4-1
+Removed Pin From Net: NetName=NetIC3_4 Pin=IC1-1
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=17V Pin=IC1-5
+Removed Pin From Net: NetName=17V Pin=IC4-1
+Removed Pin From Net: NetName=GND Pin=IC4-2
+Removed Pin From Net: NetName=5V Pin=IC4-3
+Removed Pin From Net: NetName=GND Pin=IC4-4
+Removed Pin From Net: NetName=17V Pin=P1-2
+Removed Pin From Net: NetName=5V Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=NetJ8_2 Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=Z1-2
+Removed Member From Class: ClassName=Sheet1 Member=C10
+Removed Member From Class: ClassName=Sheet1 Member=C11
+Removed Member From Class: ClassName=Sheet1 Member=C12
+Removed Member From Class: ClassName=Sheet1 Member=IC1
+Removed Member From Class: ClassName=Sheet1 Member=IC4
+Removed Member From Class: ClassName=Sheet1 Member=P1
+Added Component: Designator=C14(RESC2012X60N)
+Added Component: Designator=D4(SODFL5226X110N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/aes2jf-hf/comchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.comchiptech.com/admin/files/product/20190826114642.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "750-AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/AES2JF-HF?qs=GBLSl2Akirug3Evn59Vm1Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SODFL5226X110N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/aes2jf-hf/comchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.comchiptech.com/admin/files/product/20190826114642.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "750-AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/AES2JF-HF?qs=GBLSl2Akirug3Evn59Vm1Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SODFL5226X110N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/aes2jf-hf/comchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.comchiptech.com/admin/files/product/20190826114642.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "750-AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/AES2JF-HF?qs=GBLSl2Akirug3Evn59Vm1Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "UCC5350MCDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ucc5350mcdr/texas-instruments?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/ucc5350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UCC5350MCDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-UCC5350MCDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/UCC5350MCDR?qs=BZBei1rCqCBhITLa5VKtuw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P*(POWER_IN_2)
+Added Component: Designator=R10(RESC3216X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://th.mouser.com/datasheet/2/447/PYu_PA0100_2512_51_RoHS_2-2604383.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PA1206FRE470R003Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-PA1206FRE470R03Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/PA1206FRE470R003Z?qs=eP2BKZSCXI7dPBZgA23xbg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=NetB1_1 Pin=D6-1
+Added Pin To Net: NetName=5V Pin=IC?-1
+Added Pin To Net: NetName=NetIC3_4 Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=17V Pin=IC?-5
+Added Pin To Net: NetName=NetQ1_1 Pin=IC?-7
+Added Pin To Net: NetName=5V Pin=P*-2
+Added Pin To Net: NetName=GND Pin=P*-3
+Added Pin To Net: NetName=GND Pin=P*-4
+Added Pin To Net: NetName=GND Pin=P*-5
+Added Pin To Net: NetName=GND Pin=P*-6
+Added Pin To Net: NetName=17V Pin=P*-7
+Added Pin To Net: NetName=NetJ8_2 Pin=Q1-2
+Added Pin To Net: NetName=NetB1_1 Pin=R3-2
+Added Pin To Net: NetName=NetJ8_2 Pin=TP11-1
+Change Net Name : Old Net Name=17V New Net Name=17V_ISO
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetIC?_7
+Added Pin To Net: NetName=17V_RTN Pin=C7-2
+Added Pin To Net: NetName=17V_RTN Pin=C8-2
+Added Pin To Net: NetName=17V_RTN Pin=C9-2
+Added Pin To Net: NetName=17V_RTN Pin=IC?-8
+Added Pin To Net: NetName=17V_RTN Pin=P*-8
+Added Pin To Net: NetName=17V_RTN Pin=P*-9
+Added Pin To Net: NetName=17V_RTN Pin=Q1-3
+Added Pin To Net: NetName=17V_RTN Pin=R10-1
+Added Pin To Net: NetName=17V_RTN Pin=Z1-2
+Added Net: Name=17V_RTN
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=D5-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D6-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetIC?_6 Pin=IC?-6
+Added Pin To Net: NetName=NetIC?_6 Pin=R4-1
+Added Net: Name=NetIC?_6
+Added Pin To Net: NetName=NetP*_1 Pin=P*-1
+Added Pin To Net: NetName=NetP*_1 Pin=R3-1
+Added Net: Name=NetP*_1
+Added Member To Class: ClassName=Sheet1 Member=Component C14 C0805C105J4RAC7210
+Added Member To Class: ClassName=Sheet1 Member=Component IC? UCC5350MCDR
+Added Member To Class: ClassName=Sheet1 Member=Component P* Power_Input_2

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetD5_1 Pin=D3-2
+Added Component: Designator=D2(SODFL5226X110N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/aes2jf-hf/comchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.comchiptech.com/admin/files/product/20190826114642.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "750-AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/AES2JF-HF?qs=GBLSl2Akirug3Evn59Vm1Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SODFL5226X110N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/aes2jf-hf/comchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.comchiptech.com/admin/files/product/20190826114642.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "750-AES2JF-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/AES2JF-HF?qs=GBLSl2Akirug3Evn59Vm1Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD1_1 Pin=D2-2
+Added Pin To Net: NetName=NetD2_1 Pin=D3-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD4_1 Pin=D5-2
+Added Member To Class: ClassName=Sheet1 Member=Component D2 AES2JF-HF
+Added Member To Class: ClassName=Sheet1 Member=Component D5 AES2JF-HF
+Added Member To Class: ClassName=Sheet1 Member=Component R10 CRF0805-FZ-R005ELF
