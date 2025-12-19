@@ -1,0 +1,4 @@
+Added Component: Designator=Rog1(Rogowski)
+Added Pin To Net: NetName=NetIC5_3 Pin=Rog1-1
+Added Pin To Net: NetName=GND Pin=Rog1-2
+Added Member To Class: ClassName=Sheet1 Member=Component Rog1 Rogowski_Coil
