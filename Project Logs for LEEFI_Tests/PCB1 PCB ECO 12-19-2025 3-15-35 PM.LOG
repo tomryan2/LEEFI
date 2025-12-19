@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetB1_1 Pin=B3-1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC7
+Change Component Designator: OldDesignator=S? NewDesignator=S2
