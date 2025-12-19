@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=B1 Pin=R5-2
+Removed Pin From Net: NetName=NetB1_1 Pin=R6-1
+Added Member To Class: ClassName=Sheet1 Member=Component Rog1 Rogowski_Coil
