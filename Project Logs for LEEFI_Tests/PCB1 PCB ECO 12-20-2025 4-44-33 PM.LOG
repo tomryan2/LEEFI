@@ -1,0 +1,12 @@
+Added Component: Designator=R19(RESC5025X70N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/product-datasheets/chv.pdf?sfvrsn=adcf1bf9_27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CHV2010AFX-1005ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CHV2010AFX1005LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CHV2010AFX-1005ELF?qs=QNEnbhJQKvYnfBjUsqAL3w%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=HV_RTN Pin=R19-2
+Added Member To Class: ClassName=Sheet1 Member=Component R19 CHV2010AFX-1005ELF
